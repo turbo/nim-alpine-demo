@@ -1,0 +1,3 @@
+server
+**/*.dist.js
+frontend/app.js
